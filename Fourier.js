@@ -18,8 +18,6 @@ const randf = [Math.floor(Math.random() * 50)]
 
 var n = [Math.floor(1+Math.random() * 6)]
 
-console.log(n)
-
 function init() 
 {
 	layer1 = document.getElementById("layer1");
